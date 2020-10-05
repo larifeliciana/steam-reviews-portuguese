@@ -1,9 +1,9 @@
 # Steam Brazilian Portuguese Games Reviews Dataset
 Este repositório contém o dataset proposto no trabalho "Evaluating Video Game Acceptance in Game Reviews using Sentiment Analysis Techniques" publicado no XIX Simpósio Brasileiro de Games e Entretenimento Digital (SBGames).
 
-O dataset proposto contém 2000 comentários sobre jogos feitos no idioma português brasileiro por usuários da Steam. Os dados disponibilizados são os documetos brutos, sem qualquer tipo de processamento, dando ao pesquisador a liberdade para executar as etapas de pré-processamento desejadas.
+O dataset completo possui mais de 70 mil comentários, onde desses os 1000 primeiros positivos e 1000 negativos foram adotados no trabalho. Os comentários relacionados a jogos foram feitos no idioma português brasileiro por usuários da Steam. Os dados disponibilizados são os documetos brutos, sem qualquer tipo de processamento, dando ao pesquisador a liberdade para executar as etapas de pré-processamento desejadas.
 
-O dataset está organizado em um arquivo .csv com uma coluna com o texto dos comentários (text) e uma coluna com a classe (class) indicando a polaridade do sentimento contido no texto: positivo (1) ou negativo (0).
+O dataset está organizado em dois arquivos, 'pos' onde estão os comentários com polaridade positiva e 'neg' com os comentários com polaridade negativa.
 
 Se utilizar esse corpus por favor cite:
 
